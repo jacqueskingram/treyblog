@@ -55,4 +55,4 @@ plugins:
 - jekyll-seo-tag
 - jekyll-archives
 
-theme: Affiliates - Free Jekyll Theme
+remote_theme: Affiliates
