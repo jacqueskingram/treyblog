@@ -15,5 +15,3 @@ Key highlights:
 
 ---
 
-## 📂 Repository Structure
-
